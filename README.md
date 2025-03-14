@@ -1,3 +1,3 @@
 # Typescript con react y nextjs
 
-![imagen1](https://www.bing.com/images/search?view=detailV2&ccid=AT1oOr1x&id=40E8A43AD9A1BCD71345EFE06402D9322F019D51&thid=OIP.AT1oOr1xUhyXe0H3aBSJsgHaHa&mediaurl=https%3a%2f%2fyt3.ggpht.com%2f-ohGIQPtst3s%2fAAAAAAAAAAI%2fAAAAAAAAAAA%2fOF33RHKNaOQ%2fs900-c-k-no-mo-rj-c0xffffff%2fphoto.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.013d683abd71521c977b41f7681489b2%3frik%3dUZ0BLzLZAmTg7w%26pid%3dImgRaw%26r%3d0&exph=900&expw=900&q=vegetta777&simid=607986195569448831&FORM=IRPRST&ck=9303C8B737BE9D8EEBBB2D7948355BF3&selectedIndex=0&itb=0)
+![imagen1](https://th.bing.com/th/id/OIP.AT1oOr1xUhyXe0H3aBSJsgHaHa?rs=1&pid=ImgDetMain)
