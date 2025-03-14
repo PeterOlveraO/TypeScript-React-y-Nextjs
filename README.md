@@ -3,3 +3,5 @@
 ## 1ro. Instalar las dependecionas:
 
 Instalar TypeScript con: "npm install -D typescript"  
+a
+
