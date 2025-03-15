@@ -12,7 +12,7 @@ Despues verificar la instalacion con: "node -v" y "tsc -v"
 
 Para crear un proyecto se ejecuta el siguiente comando: "npx create-next-app@latest (nombre del proyecto)"  
 
-##LO DEJO PARA LUEGO PORQUE TENGO QUE APRENDER PRIMERO TYPESCRIPT SOLO PRIMERO XDDDDDDDDDDD
+# LO DEJO PARA LUEGO PORQUE TENGO QUE APRENDER PRIMERO TYPESCRIPT SOLO PRIMERO XDDDDDDDDDDD
 
 
  
